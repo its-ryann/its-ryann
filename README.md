@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer | Cybersecurity Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Learner;Building+Cool+Projects;Always+Learning+New+Things" />
 </p>
 
 ## 🚀 Tech Stack
@@ -16,4 +16,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RyanKikayi&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=RyanKikayi&theme=tokyonight" />
 </p>
