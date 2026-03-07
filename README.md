@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=its-ryann&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=RyanKikayi&theme=tokyonight" />
 </p>
