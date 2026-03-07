@@ -11,3 +11,9 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,html,css,js,git,github,linux,vscode" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RyanKikayi&show_icons=true&theme=tokyonight" />
+</p>
