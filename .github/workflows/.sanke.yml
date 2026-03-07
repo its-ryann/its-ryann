@@ -1,0 +1,36 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight
+  workflow_dispatch:  # allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install pygithub requests
+
+      - name: Generate Contribution Snake
+        run: |
+          git clone https://github.com/Platane/snk.git
+          cd snk
+          python snk.py -u its-ryann -o ../output
+          
+      - name: Commit & Push SVG
+        run: |
+          git config --global user.name "its-ryann"
+          git config --global user.email "kikayiryankim@gmail.com"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || echo "No changes to commit"
+          git push
