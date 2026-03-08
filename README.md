@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Ryan Kikayi 👋</h1>
 
-<h3 align="center">Full-stack Developer | Future Cybersecurity Specialist</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+High-Performance+Systems;First-Principles+Engineering;Creating+Secure-by-Design+Software;Independent+Security+Researcher" />
