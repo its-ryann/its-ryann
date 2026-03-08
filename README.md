@@ -15,22 +15,14 @@
 ## 💡 About Me
 
 I am a backend-focused developer specializing in high-performance systems and scalable infrastructure. My focus is DevSecOps—specifically building secure-by-design software that prioritizes system integrity and technical rigor.
-> *“Speed is good, but integrity is better. If it’s not secure from the first line of code, it’s not finished.”*
----
+<p align="center">
+<i>“Speed is good, but integrity is better. If it’s not secure from the first line of code, it’s not finished.”</i>
+</p>
 
 ## ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,js,html,css,git,github,linux,docker,vscode,bash" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=its-ryann&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ryann&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,14 +43,6 @@ I am a backend-focused developer specializing in high-performance systems and sc
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/its-ryann/its-ryann/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Building **high-performance backend systems in Go**
@@ -74,4 +58,5 @@ I am a backend-focused developer specializing in high-performance systems and sc
 <a href="https://github.com/its-ryann"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/ryan-kikayi-916956299/?trk=contact-info"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=vercel"/></a>
+<a href="https://dev.to/its_ryann"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto"/></a>
 </p>
