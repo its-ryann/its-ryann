@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="System Architecture Banner" width="50%" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=//+INITIALIZING+DEVOPS+PIPELINE...;//+STATUS:+SYSTEMS+SECURE;" />
+</p>
 
 <h1 align="center">Hi, I'm Ryan Kikayi 👋</h1>
 
@@ -14,8 +14,6 @@
 
 ## 💡 About Me
 
-Hi, my name is **Ryan Kikayi**, and I help people by creating high-performance backend systems and scalable infrastructure. I am currently working toward becoming a **Cybersecurity Architect**, focusing on creating secure-by-design software that prioritizes system integrity and long-term technical rigor.
-
-I specialize in **Go (Golang)** and **Systems Logic**, where I apply first-principles engineering to solve complex problems from the ground up. I am dedicated to the "hard path" of manual problem-solving to ensure that every system I build is efficient, transparent, and robust.
-
+I am a backend-focused developer specializing in high-performance systems and scalable infrastructure. My focus is DevSecOps—specifically building secure-by-design software that prioritizes system integrity and technical rigor.
+> *“Speed is good, but integrity is better. If it’s not secure from the first line of code, it’s not finished.”*
 ---
