@@ -29,12 +29,12 @@ I am a backend-focused developer specializing in high-performance systems and sc
 <a href="https://github.com/its-ryann">
   <img alt="its-ryann GitHub stats — commits, PRs, stars, and contributions"
        height="180"
-       src="https://github-readme-stats.vercel.app/api?username=its-ryann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=300" />
+       src="https://github-readme-stats.vercel.app/api?username=its-ryann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=300&v=1" />
 </a>
 <a href="https://github.com/its-ryann">
   <img alt="Top programming languages used"
        height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ryann&layout=compact&langs_count=10&hide_border=true&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ryann&layout=compact&langs_count=10&hide_border=true&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300&v=1" />
 </a>
 
 <br />
