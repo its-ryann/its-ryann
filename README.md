@@ -22,21 +22,36 @@ I am a backend-focused developer specializing in high-performance systems and sc
 <img src="https://skillicons.dev/icons?i=go,js,html,css,git,github,linux,docker,vscode,bash" />
 </p>
 
----
+## GitHub Stats
 
-## 🔥 Contribution Streak
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=its-ryann&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://github.com/its-ryann">
+  <img alt="flowdeskadmin GitHub stats — commits, PRs, stars, and contributions"
+       height="180"
+       src="https://github-readme-stats.vercel.app/api?username=its-ryann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+</a>
+<a href="https://github.com/its-ryann">
+  <img alt="Top programming languages used"
+       height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ryann&layout=compact&langs_count=10&hide_border=true&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
 
----
+<br />
 
-## 📈 Activity Graph
+<a href="https://github.com/its-ryann">
+  <img alt="its-ryann GitHub streak — current and longest contribution streaks"
+       src="https://streak-stats.demolab.com?user=flowdeskadmin&theme=github-dark&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=FFD93D&currStreakLabel=0A66C2" />
+</a>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-ryann&theme=tokyo-night&hide_border=true"/>
-</p>
+<br /><br />
+
+<a href="https://github.com/its-ryann">
+  <img alt="GitHub trophies — achievements across its-ryann's open-source work"
+       src="https://github-profile-trophy.vercel.app/?username=its-ryann&theme=github_dark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</a>
+
+</div>
 
 ---
 
