@@ -27,7 +27,7 @@ I am a backend-focused developer specializing in high-performance systems and sc
 <div align="center">
 
 <a href="https://github.com/its-ryann">
-  <img alt="flowdeskadmin GitHub stats — commits, PRs, stars, and contributions"
+  <img alt="its-ryann GitHub stats — commits, PRs, stars, and contributions"
        height="180"
        src="https://github-readme-stats.vercel.app/api?username=its-ryann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
 </a>
@@ -41,13 +41,13 @@ I am a backend-focused developer specializing in high-performance systems and sc
 
 <a href="https://github.com/its-ryann">
   <img alt="its-ryann GitHub streak — current and longest contribution streaks"
-       src="https://streak-stats.demolab.com?user=flowdeskadmin&theme=github-dark&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=FFD93D&currStreakLabel=0A66C2" />
+       src="https://streak-stats.demolab.com?user=its-ryann&theme=github-dark&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=FFD93D&currStreakLabel=0A66C2" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/its-ryann">
-  <img alt="GitHub trophies — achievements across its-ryann's open-source work"
+  <img alt="GitHub trophies — achievements across Rya.nn's open-source work"
        src="https://github-profile-trophy.vercel.app/?username=its-ryann&theme=github_dark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </a>
 
