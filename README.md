@@ -41,7 +41,7 @@ I am a backend-focused developer specializing in high-performance systems and sc
 
 <a href="https://github.com/its-ryann">
   <img alt="its-ryann GitHub streak — current and longest contribution streaks"
-       src="https://streak-stats.demolab.com?user=its-ryann&theme=github-dark&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=FFD93D&currStreakLabel=0A66C2&cache_seconds=300" />
+       src="https://streak-stats.demolab.com?user=its-ryann&theme=github-dark&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=FFD93D&currStreakLabel=0A66C2&cache_seconds=300&refresh=now" />
 </a>
 
 <br /><br />
